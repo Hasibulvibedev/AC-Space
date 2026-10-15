@@ -1,0 +1,6 @@
+{
+  "name": "Video Editor Portfolio",
+  "description": "A clean, modern single-page portfolio website for a freelance video editor showcasing featured works, services, editing workflow, and direct contact options in sage green aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
